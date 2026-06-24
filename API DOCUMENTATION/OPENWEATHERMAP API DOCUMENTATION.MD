@@ -19,7 +19,7 @@ Beginners - who wants to work with REST API
 
 Developers - Who are familiar with using REST API to integrate weather data in thier web or mobile applications.
 
-#### How to get API key
+**How to get API key**
 
 - go to openweathermap API website
     
