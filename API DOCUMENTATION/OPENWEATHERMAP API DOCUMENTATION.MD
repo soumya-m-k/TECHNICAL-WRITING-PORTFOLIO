@@ -49,7 +49,7 @@ weather can be fetched using city name, zip code or coordinates.
 
 Every request requires API key `appid` for secure data tranfer which must kept safe.
 
-#### How to call API for current weather data
+#### API CALL for current weather data
 
 API CALL
 
@@ -128,7 +128,7 @@ JSON
 - cod - Internal parameter
     
 
-#### How to call API for 5 days forecast data
+####  API CALL for 5 days forecast data
 
 API CALL
 
